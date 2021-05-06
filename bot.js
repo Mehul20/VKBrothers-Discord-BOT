@@ -46,5 +46,7 @@ client.on('messageDelete', msg => {
 });
 
 client.login(process.env.BOT_TOKEN);
-
+server.connection({
+    port: process.env.PORT || 1000 
+});
 
