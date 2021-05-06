@@ -1,0 +1,19 @@
+{
+  "name": "vkbrothers-bot",
+  "version": "1.0.0",
+  "description": "VK Brothers BOT",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "devStart": "nodemon bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
