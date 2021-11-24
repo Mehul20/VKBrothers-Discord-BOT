@@ -2,7 +2,7 @@
 # Discord Bot 🤖
 
 An interactive Discord Bot to generate service requests. 
-Designed and Built for https://www.vkbrothers.com/
+Designed and Built using Discord.js for https://www.vkbrothers.com/
 
 
 
